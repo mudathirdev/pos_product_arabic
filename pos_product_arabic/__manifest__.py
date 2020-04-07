@@ -27,6 +27,7 @@
         'views/views.xml',
         'views/templates.xml',
     ],
+    'images': ['static/description/1.png'],
     # only loaded in demonstration mode
     
     'qweb': ['static/src/xml/product_arabic_name.xml'],
